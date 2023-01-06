@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namhainguyen2803&label=Profile%20views&color=0e75b6&style=flat" alt="namhainguyen2803" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=namhainguyen2803&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=namhainguyen2803&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
