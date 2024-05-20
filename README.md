@@ -2,7 +2,6 @@
 - 👀 I’m interested in AI and Machine Learning
 - 👨‍🎓 I’m currently learning DS-AI at [Hanoi University of Science and Technology](https://hust.edu.vn)
 - 👨‍💻 Machine Learning Research student at [DSLab](http://ds.soict.hust.edu.vn), [BKAI](https://bkai.ai)
-- 🌱 AI Developer at [Google Developer Student Clubs x Hanoi University of Science and Technology](https://www.facebook.com/dsc.hust.2020)
 - 👨‍💻 AI Research Resident at [VinAI Research](https://www.vinai.io)
 - 📫 How to reach me:
   - Facebook: https://www.facebook.com/namhai28030810
