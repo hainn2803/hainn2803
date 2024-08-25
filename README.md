@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @namhainguyen2803
+- 👋 Hi, I’m @hainn2803
 - 👀 I’m interested in AI and Machine Learning
 - 👨‍🎓 I’m currently learning DS-AI at [Hanoi University of Science and Technology](https://hust.edu.vn)
 - 👨‍💻 Machine Learning Research student at [DSLab](http://ds.soict.hust.edu.vn), [BKAI](https://bkai.ai)
