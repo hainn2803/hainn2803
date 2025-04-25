@@ -3,7 +3,7 @@
 - 👨‍🎓 I’m currently learning DS-AI at [Hanoi University of Science and Technology](https://hust.edu.vn)
 - 👨‍💻 Machine Learning Research student at [DSLab](http://ds.soict.hust.edu.vn), [BKAI](https://bkai.ai)
 - 👨‍💻 AI Research Resident at [VinAI Research](https://www.vinai.io)
-- - 👨‍💻 AI Research Resident at [Qualcomm](https://www.qualcomm.com)
+- 👨‍💻 AI Research Resident at [Qualcomm](https://www.qualcomm.com)
 - 📫 How to reach me:
   - Facebook: https://www.facebook.com/hainn2803
   - LinkedIn: https://www.linkedin.com/in/hainn2803/
